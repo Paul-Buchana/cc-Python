@@ -1,5 +1,5 @@
 Author: Paul Buchana
-E-Mail: pbuchana@andrew.cmu.edu
+
 Last Modified: 14th/June/2014
 
 Python Version: 2.7.6
